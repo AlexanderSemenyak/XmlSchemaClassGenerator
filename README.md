@@ -1,3 +1,5 @@
+orig: https://github.com/mganss/XmlSchemaClassGenerator
+
 XmlSchemaClassGenerator
 =======================
 
